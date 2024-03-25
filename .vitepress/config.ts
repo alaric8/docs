@@ -8,7 +8,7 @@ export default defineConfig({
   srcDir: "src",
   outDir: "dist",
   assetsDir: "static",
-  base: "/alaric/",
+  base: "/docs/",
   cleanUrls: true, // 清除 .html 后缀
   metaChunk: true,
   mpa: true,
