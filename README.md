@@ -14,7 +14,7 @@ const pathList = [
 ];
 const result = pathToTree(pathList);
 console.lg(result);
-```
+```f fsdfsdf
 
 输出如下结果 items 为子节点 其中 link 字段只有 节点有 目录没有 items 只有目录有 子节点不能存在
 
